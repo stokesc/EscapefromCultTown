@@ -44,6 +44,10 @@ Other Information:
                 
                 * The cultists will not stop coming until you channel the tome to stop their rituals.
                 
+                *Press the Page Down key to restart the level if it gets into an unplayable state.
+                
+                * Press Escape during the game to quit.
+                
 Known Issues:
 
                 * A lot.
