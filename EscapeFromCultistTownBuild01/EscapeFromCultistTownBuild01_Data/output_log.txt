@@ -1,0 +1,38 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e2)
+    Vendor:   NVIDIA
+    VRAM:     1986 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.161 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Connor\My Game Projects\Escape from Cult Town\EscapefromCultTown\EscapeFromCultistTownBuild01\EscapeFromCultistTownBuild01_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: d98 -> priority: 1 
+  Thread -> id: 2eec -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.558574 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 811.
+Total: 1.141832 ms (FindLiveObjects: 0.125302 ms CreateObjectMapping: 0.098360 ms MarkObjects: 0.877115 ms  DeleteObjects: 0.038916 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.966904 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.826224 ms (FindLiveObjects: 0.043192 ms CreateObjectMapping: 0.051318 ms MarkObjects: 0.630787 ms  DeleteObjects: 0.099215 ms)
+
